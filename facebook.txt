@@ -2,6 +2,325 @@
 # Project home page: https://github.com/seandelaney/blacklist
 # Title: Sean's Facebook Blacklist
 # ===================================================================
+########## 0.0.0.0 api.facebook.com
+########## 0.0.0.0 api2.facebook.com
+########## 0.0.0.0 app.facebook.com
+########## 0.0.0.0 apps.facebook.com
+########## 0.0.0.0 badge.facebook.com
+########## 0.0.0.0 beta.facebook.com
+########## 0.0.0.0 beta.facebook.net
+########## blog.facebook.com
+########## business.facebook.com
+########## canvas.facebook.com
+########## 0.0.0.0 cdn.facebook.net
+########## 0.0.0.0 chat.facebook.com
+########## 0.0.0.0 connect.facebook.com
+########## 0.0.0.0 connect.facebook.net
+########## 0.0.0.0 connnect.facebook.net
+########## 0.0.0.0 dev.facebook.com
+########## 0.0.0.0 download.facebook.com
+########## 0.0.0.0 echo.facebook.com
+########## 0.0.0.0 edge-mqtt.facebook.com
+########## 0.0.0.0 en-gb.facebook.com
+########## 0.0.0.0 facebook.com
+########## 0.0.0.0 fb.com
+########## 0.0.0.0 login.facebook.com
+########## 0.0.0.0 messenger.com
+########## 0.0.0.0 mobile.facebook.com
+########## 0.0.0.0 scontent.xx.fbcdn.net
+########## 0.0.0.0 secure.facebook.com
+########## 0.0.0.0 upload.facebook.com
+########## 0.0.0.0 static.xx.fbcdn.net
+########## 0.0.0.0 web.facebook.com
+########## 0.0.0.0 webdav.facebook.com
+########## 0.0.0.0 www.facebook.com
+########## 0.0.0.0 www.facebook.net
+########## 0.0.0.0 www.fbcdn.com
+########## 0.0.0.0 www.fbcdn.net
+########## 0.0.0.0 wwww.facebook.com
+########## 0.0.0.0 developer.facebook.com
+########## 0.0.0.0 developers.facebook.com
+########## 0.0.0.0 development.facebook.com
+########## 0.0.0.0 api.connect.facebook.com
+########## 0.0.0.0 ssl.connect.facebook.com
+########## 0.0.0.0 purchase.facebook.com
+########## 0.0.0.0 stories.facebook.com
+########## 0.0.0.0 developer.facebook.net
+########## 0.0.0.0 developers.facebook.net
+########## 0.0.0.0 login.0.facebook.com
+########## 0.0.0.0 work.facebook.com
+########## 0.0.0.0 workplace.facebook.com
+########## 0.0.0.0 touch.facebook.com
+########## 0.0.0.0 star.c10r.facebook.com
+########## 0.0.0.0 com.mirror.facebook.net
+########## 0.0.0.0 conectadosbancogalicia.facebook.com
+########## 0.0.0.0 connect.beta.facebook.net
+########## 0.0.0.0 connect.facebook.net.edgekey.net
+########## 0.0.0.0 coralsprings.facebook.com
+########## 0.0.0.0 cpan.mirror.facebook.net
+########## 0.0.0.0 fb.me
+########## 0.0.0.0 fbcdn.com
+########## 0.0.0.0 fbcdn.net
+0.0.0.0 graph.facebook.com
+0.0.0.0 graph.fbsbx.com
+0.0.0.0 graph2.facebook.com
+0.0.0.0 intern.facebook.com
+0.0.0.0 m.facebook.com
+0.0.0.0 m.facebook.net
+0.0.0.0 register.facebook.com
+0.0.0.0 research.facebook.com
+0.0.0.0 review.intern.facebook.com
+0.0.0.0 reviews.facebook.net
+0.0.0.0 ro-ro.facebook.com
+0.0.0.0 ru-ru.facebook.com
+0.0.0.0 rupload.facebook.com
+0.0.0.0 s-static.ak.facebook.com
+0.0.0.0 s-static.ak.facebook.com.edgekey.net
+0.0.0.0 s.update.fbsbx.com
+0.0.0.0 sac-h-ct-m-fbx.fbsbx.com.online-metrix.net
+0.0.0.0 scgraph.facebook.com
+0.0.0.0 de.fbsbx.com
+0.0.0.0 e.fbsbx.com
+0.0.0.0 flookaside.fbsbx.com
+0.0.0.0 httplookaside.fbsbx.com
+0.0.0.0 ide.fbsbx.com
+0.0.0.0 kaside.fbsbx.com
+0.0.0.0 okaside.fbsbx.com
+0.0.0.0 platform-lookside.fbsbx.com
+0.0.0.0 portal.fbsbx.com
+0.0.0.0 pps.fbsbx.com
+0.0.0.0 rsrc.fbsbx.com
+0.0.0.0 side.fbsbx.com
+0.0.0.0 ssl.fbsbx.com
+0.0.0.0 update.fbsbx.com
+0.0.0.0 httpss.update.fbsbx.com
+0.0.0.0 www.t.update.fbsbx.com
+0.0.0.0 whatsapp.fbsbx.com
+0.0.0.0 xpf.fbsbx.com
+0.0.0.0 wsu.facebook.com
+0.0.0.0 x.facebook.com
+0.0.0.0 yale.facebook.com
+0.0.0.0 yorku.facebook.com
+0.0.0.0 develoopers.facebook.net
+0.0.0.0 www.opera.mirror.facebook.net
+0.0.0.0 129474250.fbsbx.com
+0.0.0.0 252flookaside.fbsbx.com
+0.0.0.0 2fcdn.fbsbx.com
+0.0.0.0 2flookaside.fbsbx.com
+0.0.0.0 3.fbsbx.com
+0.0.0.0 3dcdn.fbsbx.com
+0.0.0.0 wichita.facebook.com
+0.0.0.0 winona.facebook.com
+0.0.0.0 wisc.facebook.com
+0.0.0.0 wluca.facebook.com
+0.0.0.0 wlv.facebook.com
+0.0.0.0 vt.facebook.com
+0.0.0.0 vuwac.facebook.com
+0.0.0.0 msgin-regional.vvv.facebook.com
+0.0.0.0 smtpin.vvv.facebook.com
+0.0.0.0 washington.facebook.com
+0.0.0.0 wc.facebook.com
+0.0.0.0 wcupa.facebook.com
+0.0.0.0 wesley.facebook.com
+0.0.0.0 westmont.facebook.com
+0.0.0.0 raritanval.facebook.com
+0.0.0.0 rbs.facebook.com
+0.0.0.0 rsu.facebook.com
+0.0.0.0 scarolina.facebook.com
+0.0.0.0 sdstate.facebook.com
+0.0.0.0 secure-edge-latest-shv-01-icn1.facebook.com
+0.0.0.0 seminolecc.facebook.com
+0.0.0.0 sfasu.facebook.com
+0.0.0.0 sfu.facebook.com
+0.0.0.0 si-lk.facebook.com
+0.0.0.0 smith.facebook.com
+0.0.0.0 smsu.facebook.com
+0.0.0.0 soton.facebook.com
+0.0.0.0 sru.facebook.com
+0.0.0.0 standrews.facebook.com
+0.0.0.0 stir.facebook.com
+0.0.0.0 stmarys.facebook.com
+0.0.0.0 sunderland.facebook.com
+0.0.0.0 svsu.facebook.com
+0.0.0.0 sw-ke.facebook.com
+0.0.0.0 syr.facebook.com
+0.0.0.0 tamu.facebook.com
+0.0.0.0 tcu.facebook.com
+0.0.0.0 tees.facebook.com
+0.0.0.0 telefonica.facebook.com
+0.0.0.0 test.facebook.com
+0.0.0.0 trac.facebook.com
+0.0.0.0 traceroute-bgp-01-icn1.facebook.com
+0.0.0.0 troy.facebook.com
+0.0.0.0 twitter.facebook.com
+0.0.0.0 uc.facebook.com
+0.0.0.0 ucc.facebook.com
+0.0.0.0 uce.facebook.com
+0.0.0.0 ucfvbc.facebook.com
+0.0.0.0 uchicago.facebook.com
+0.0.0.0 ucsd.facebook.com
+0.0.0.0 uea.facebook.com
+0.0.0.0 ufl.facebook.com
+0.0.0.0 uga.facebook.com
+0.0.0.0 uic.facebook.com
+0.0.0.0 uindy.facebook.com
+0.0.0.0 umass.facebook.com
+0.0.0.0 umbc.facebook.com
+0.0.0.0 umw.facebook.com
+0.0.0.0 uncc.facebook.com
+0.0.0.0 uncw.facebook.com
+0.0.0.0 une.facebook.com
+0.0.0.0 unisaedu.facebook.com
+0.0.0.0 unl.facebook.com
+0.0.0.0 uno.facebook.com
+0.0.0.0 unswedu.facebook.com
+0.0.0.0 upei.facebook.com
+0.0.0.0 ursinus.facebook.com
+0.0.0.0 usafa.facebook.com
+0.0.0.0 utexas.facebook.com
+0.0.0.0 uttyler.facebook.com
+0.0.0.0 uu.facebook.com
+0.0.0.0 uwaterloo.facebook.com
+0.0.0.0 uwec.facebook.com
+0.0.0.0 uwf.facebook.com
+0.0.0.0 uwp.facebook.com
+0.0.0.0 uwsp.facebook.com
+0.0.0.0 valdosta.facebook.com
+0.0.0.0 vanderbilt.facebook.com
+0.0.0.0 vccs.facebook.com
+0.0.0.0 circa.vip.facebook.com
+0.0.0.0 mtmercy.facebook.com
+0.0.0.0 muskingum.facebook.com
+0.0.0.0 mvnu.facebook.com
+0.0.0.0 nau.facebook.com
+0.0.0.0 ncst.facebook.com
+0.0.0.0 ndsu.facebook.com
+0.0.0.0 newhaven.facebook.com
+0.0.0.0 ngcsu.facebook.com
+0.0.0.0 njit.facebook.com
+0.0.0.0 northampton.facebook.com
+0.0.0.0 ohio.facebook.com
+0.0.0.0 oit.facebook.com
+0.0.0.0 okcu.facebook.com
+0.0.0.0 okwu.facebook.com
+0.0.0.0 oneonta.facebook.com
+0.0.0.0 otterbein.facebook.com
+0.0.0.0 owu.facebook.com
+0.0.0.0 pdx.facebook.com
+0.0.0.0 perfshield.facebook.com
+0.0.0.0 plymouth.facebook.com
+0.0.0.0 ca-es.prod.facebook.com
+0.0.0.0 cs-cz.prod.facebook.com
+0.0.0.0 en-gb.prod.facebook.com
+0.0.0.0 es-mx.prod.facebook.com
+0.0.0.0 fa-ir.prod.facebook.com
+0.0.0.0 he-il.prod.facebook.com
+0.0.0.0 hr-hr.prod.facebook.com
+0.0.0.0 hu-hu.prod.facebook.com
+0.0.0.0 m.prod.facebook.com
+0.0.0.0 nl-nl.prod.facebook.com
+0.0.0.0 sk-sk.prod.facebook.com
+0.0.0.0 tr-tr.prod.facebook.com
+0.0.0.0 zh-hk.prod.facebook.com
+0.0.0.0 ps-af.facebook.com
+0.0.0.0 lntinfotech.facebook.com
+0.0.0.0 longwood.facebook.com
+0.0.0.0 louisville.facebook.com
+0.0.0.0 lsu.facebook.com
+0.0.0.0 luc.facebook.com
+0.0.0.0 maritime.facebook.com
+0.0.0.0 mass.facebook.com
+0.0.0.0 mcla.facebook.com
+0.0.0.0 mcphs.facebook.com
+0.0.0.0 mercer.facebook.com
+0.0.0.0 mica.facebook.com
+0.0.0.0 middlebury.facebook.com
+0.0.0.0 millikin.facebook.com
+0.0.0.0 mmu.facebook.com
+0.0.0.0 mnsu.facebook.com
+0.0.0.0 morehouse.facebook.com
+0.0.0.0 iowa.facebook.com
+0.0.0.0 jjcccil.facebook.com
+0.0.0.0 keele.facebook.com
+0.0.0.0 kennesaw.facebook.com
+0.0.0.0 keystone.facebook.com
+0.0.0.0 kingston.facebook.com
+0.0.0.0 kirkwood.facebook.com
+0.0.0.0 kk-kz.facebook.com
+0.0.0.0 kn-in.facebook.com
+0.0.0.0 ksu.facebook.com
+0.0.0.0 ku-tr.facebook.com
+0.0.0.0 laurentian.facebook.com
+0.0.0.0 lhup.facebook.com
+0.0.0.0 lindenwood.facebook.com
+0.0.0.0 lit.facebook.com
+0.0.0.0 liv.facebook.com
+0.0.0.0 hec.facebook.com
+0.0.0.0 hillsdale.facebook.com
+0.0.0.0 hw.facebook.com
+0.0.0.0 hy-am.facebook.com
+0.0.0.0 icc.facebook.com
+0.0.0.0 immaculata.facebook.com
+0.0.0.0 indstate.facebook.com
+0.0.0.0 www.intern.facebook.com
+0.0.0.0 internmcr.facebook.com
+0.0.0.0 secure.internmcr.facebook.com
+0.0.0.0 fy-nl.facebook.com
+0.0.0.0 georgianc.facebook.com
+0.0.0.0 glos.facebook.com
+0.0.0.0 gn-py.facebook.com
+0.0.0.0 gordon.facebook.com
+0.0.0.0 greenwich.facebook.com
+0.0.0.0 gu-in.facebook.com
+0.0.0.0 gwu.facebook.com
+0.0.0.0 hartford.facebook.com
+0.0.0.0 eiu.facebook.com
+0.0.0.0 emich.facebook.com
+0.0.0.0 erau.facebook.com
+0.0.0.0 etsu.facebook.com
+0.0.0.0 evangel.facebook.com
+0.0.0.0 fa-ir.facebook.com
+0.0.0.0 fandm.facebook.com
+0.0.0.0 fr-fr.fbjs.facebook.com
+0.0.0.0 du.facebook.com
+0.0.0.0 academy.facebook.com
+0.0.0.0 albany.facebook.com
+0.0.0.0 api-video.facebook.com
+0.0.0.0 arts.facebook.com
+0.0.0.0 assistant.facebook.com
+0.0.0.0 aston.facebook.com
+0.0.0.0 bakersfield.facebook.com
+0.0.0.0 bangor.facebook.com
+0.0.0.0 bard.facebook.com
+0.0.0.0 berry.facebook.com
+0.0.0.0 ar-ar.beta.facebook.com
+0.0.0.0 en-gb.beta.facebook.com
+0.0.0.0 es-es.beta.facebook.com
+0.0.0.0 bethel.facebook.com
+0.0.0.0 boisestate.facebook.com
+0.0.0.0 bradford.facebook.com
+0.0.0.0 bradley.facebook.com
+0.0.0.0 bridgewater.facebook.com
+0.0.0.0 brighton.facebook.com
+0.0.0.0 brookes.facebook.com
+0.0.0.0 bucknell.facebook.com
+0.0.0.0 ar-ar.c.facebook.com
+0.0.0.0 canterbury.facebook.com
+0.0.0.0 carlow.facebook.com
+0.0.0.0 ccm.facebook.com
+0.0.0.0 central.facebook.com
+0.0.0.0 centralpenn.facebook.com
+0.0.0.0 chalmers.facebook.com
+0.0.0.0 chaminade.facebook.com
+0.0.0.0 check4.facebook.com
+0.0.0.0 city.facebook.com
+0.0.0.0 claremont.facebook.com
+0.0.0.0 clayton.facebook.com
+0.0.0.0 cmich.facebook.com
+0.0.0.0 cmsu.facebook.com
+0.0.0.0 cod.facebook.com
+0.0.0.0 cofc.facebook.com
+0.0.0.0 colorado.facebook.com
 0.0.0.0 shadow.facebook.com
 0.0.0.0 shortwave.facebook.com
 0.0.0.0 shv-01-syd2.facebook.com
