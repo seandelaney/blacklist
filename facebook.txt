@@ -64,7 +64,6 @@
 0.0.0.0 staging.scgraph.facebook.com
 0.0.0.0 star-mini.c10r.facebook.com
 0.0.0.0 star-shv-03-atn1.facebook.com
-0.0.0.0 star.c10r.facebook.com
 0.0.0.0 star.facebook.com
 0.0.0.0 static-0.facebook.com
 0.0.0.0 static.ak.connect.facebook.com
