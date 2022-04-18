@@ -61,7 +61,7 @@
 ########## 0.0.0.0 fb.me
 ########## 0.0.0.0 fbcdn.com
 ########## 0.0.0.0 fbcdn.net
-0.0.0.0 graph.facebook.com
+########## 0.0.0.0 graph.facebook.com
 0.0.0.0 graph.fbsbx.com
 0.0.0.0 graph2.facebook.com
 0.0.0.0 intern.facebook.com
